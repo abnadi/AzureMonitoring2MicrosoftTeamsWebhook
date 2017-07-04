@@ -16,5 +16,13 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-az
 # Azure Functions HTTP and webhook bindings
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook
 
+
+# Handy Tools:
+Test webhook:
+https://requestb.in/
+
+Convert JSON to C#:
+http://json2csharp.com/
+
 # Thanks to:
 https://medium.com/@devlead/azure-deployment-microsoft-teams-ed1c15df4a08
