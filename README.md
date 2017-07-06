@@ -4,9 +4,6 @@ Convert and Send azure webhook event to Microsoft teams
 # Purpose
 Convert autoscaling json messages and send them to Microsoft Teams
 
-# To-Do
-Adjust so that Azure Alerts sends messages to Microsoft Teams
-
 # Use autoscale actions to send webhook alert notifications
 https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/insights-autoscale-to-webhook-email
 
